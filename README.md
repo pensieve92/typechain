@@ -1,0 +1,2 @@
+# typechain
+clone nomadcoders typechain
